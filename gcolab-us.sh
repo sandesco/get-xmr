@@ -4,7 +4,7 @@
 # Google Colab
 sudo apt update
 clear
-sudo apt install screen
+sudo apt install screen -y
 screen -R vrs
  
 apt install git -y
